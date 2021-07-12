@@ -48,3 +48,10 @@ p {
   font-size: x-large;
   color: darkred;
 }
+
+.pageno {
+  height: 60px;
+  width: 60px;
+  display: flex;
+  flex-direction: column;
+}
